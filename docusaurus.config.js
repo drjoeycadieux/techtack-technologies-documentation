@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Techtack-Technologies",
   tagline: "Documentation For Techtack-Technologies",
-  favicon: "img/favicon.ico",
+  favicon: "img/logo_main.png",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-test-site.com",
@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Techtack-Technologies Company. All Right Reserved.`,
       },
       prism: {
         theme: lightCodeTheme,
